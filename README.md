@@ -11,7 +11,7 @@
 * 点击「添加规则列表」，在规则列表网址，输入
 
 ``
-https://github.com/pluwen/china-domain-allowlist/raw/main/allow-list.sorl
+https://github.com/cgddgc/china-domain-allowlist/raw/main/allow-list.sorl
 ``
 * 点击「立即更新情景模式」
 * 点击左上角「界面」，将初始情景模式改为「自动切换」
